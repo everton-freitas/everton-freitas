@@ -1,8 +1,13 @@
 # everton-freitas
-### Hi, i am student of Systems Analysis and Development at Senac PE College, I am always looking for new knowledge and challenges. 📚💻
+### 👋 Hi there! I'm an aspiring Full Stack developer eager to create dynamic and efficient web applications.
+
+### 💻 Currently, I'm learning about JavaScript, React, Node.js, and Python, and striving to improve my skills.
+
+### 🌱 Right now, I'm exploring API development and databases to provide complete and scalable solutions.
+
+### 🚀 Always open to collaborating on projects and sharing knowledge. Let’s build something amazing together!
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-freitas-a54a45300/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/everton-freitas)
 [![E-mail](https://img.shields.io/badge/-Email-fff?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:evertonfreitas016@hotmail.com)
 ## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
