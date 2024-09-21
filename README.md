@@ -1,11 +1,11 @@
 # everton-freitas
-### 👋 Hi there! I'm an aspiring Full Stack developer eager to create dynamic and efficient web applications.
+### 👋 Olá! Sou um aspirante a desenvolvedor Full Stack em busca de criar aplicações web dinâmicas e eficientes.
 
-### 💻 Currently, I'm learning about JavaScript, React, Node.js, and Python, and striving to improve my skills.
+### 💻 Atualmente, estou aprendendo sobre JavaScript, React, Node.js e Python, e me esforçando para aprimorar minhas habilidades.
 
-### 🌱 Right now, I'm exploring API development and databases to provide complete and scalable solutions.
+### 🌱 No momento, estou explorando desenvolvimento de APIs e bancos de dados para oferecer soluções completas e escaláveis.
 
-### 🚀 Always open to collaborating on projects and sharing knowledge. Let’s build something amazing together!
+### 🚀 Sempre aberto a colaborar em projetos e compartilhar conhecimento. Vamos construir algo incrível juntos!
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-freitas-a54a45300/)
 [![E-mail](https://img.shields.io/badge/-Email-fff?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:evertonfreitas016@hotmail.com)
@@ -13,7 +13,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
