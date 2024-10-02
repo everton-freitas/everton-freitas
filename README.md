@@ -1,7 +1,7 @@
 # everton-freitas
 ### 👋 Olá! Sou um aspirante a desenvolvedor Full Stack em busca de criar aplicações web dinâmicas e eficientes.
 
-### 💻 Atualmente, estou aprendendo sobre JavaScript, React, Node.js e Python, e me esforçando para aprimorar minhas habilidades.
+### 💻 Atualmente, estou aprendendo sobre JavaScript, React e Python, e me esforçando para aprimorar minhas habilidades.
 
 ### 🌱 No momento, estou explorando desenvolvimento de APIs e bancos de dados para oferecer soluções completas e escaláveis.
 
