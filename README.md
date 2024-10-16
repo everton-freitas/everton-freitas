@@ -1,11 +1,6 @@
 # everton-freitas
-### 👋 Olá! Sou um aspirante a desenvolvedor Full Stack em busca de criar aplicações web dinâmicas e eficientes.
+### 👋 Olá! Sou um aspirante a desenvolvedor Front end em busca de criar aplicações web dinâmicas e eficientes.
 
-### 💻 Atualmente, estou aprendendo sobre JavaScript, React e Python, e me esforçando para aprimorar minhas habilidades.
-
-### 🌱 No momento, estou explorando desenvolvimento de APIs e bancos de dados para oferecer soluções completas e escaláveis.
-
-### 🚀 Sempre aberto a colaborar em projetos e compartilhar conhecimento. Vamos construir algo incrível juntos!
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-freitas-a54a45300/)
 [![E-mail](https://img.shields.io/badge/-Email-fff?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:evertonfreitas016@hotmail.com)
