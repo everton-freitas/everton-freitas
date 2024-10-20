@@ -22,6 +22,7 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=everton-freitas&repo=NimeFLix2&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/everton-freitas/NimeFlix2)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=everton-freitas&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/everton-freitas/dio-lab-open-source)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=everton-freitas&repo=interface-do-instagram-black&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/everton-freitas/interface-do-instagran-black)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=everton-freitas&repo=projeto-educaplus&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/everton-freitas/projeto-educaplus)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=everton-freitas&repo=&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/everton-freitas/interface-do-instagran-black)
+
 
 
