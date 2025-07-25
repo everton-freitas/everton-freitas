@@ -1,5 +1,5 @@
 # everton-freitas
-### 🧑‍💻 Desenvolvedor Web
+### 🧑‍💻 Estudante de Análise e Desenvolvimento de Sistemas na faculdade SENAC PE no quarto periodo 4/5
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-freitas-a54a45300/)
